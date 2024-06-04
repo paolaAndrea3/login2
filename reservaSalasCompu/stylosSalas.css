@@ -1,0 +1,317 @@
+body {
+    background-image: url(fondoReservas.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+
+header {
+    position: relative;
+    display: wrap;
+
+}
+
+.logocontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: -76px;
+    top: -8px;
+
+}
+
+.Ticketcontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: 143px;
+}
+
+.platzicontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    display: flex;
+    display: wrap;
+    left: 123px;
+}
+
+.confamacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -12px;
+    left: 110px;
+}
+
+.campanitacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -9px;
+    left: 134px;
+
+}
+
+.mensajescontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -10px;
+    left: 110px;
+}
+
+.ajustescontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: 86px;
+    top: -11px;
+}
+
+.personacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -11px;
+    left: 60px;
+}
+
+.platzi {
+    position: absolute;
+    left: 804px;
+    top: 28px;
+}
+
+.confama {
+    /* position: absolute; */
+    /* left: 850px;
+    top:35px ; */
+}
+
+.contec {
+    display: flex;
+    display: wrap;
+}
+
+.titulo {
+
+    position: absolute;
+    display: flex;
+    display: wrap;
+    top: 150px;
+    left: 555px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 44, 44);
+}
+
+.contenedorPadre {
+    position: absolute;
+    display: flex;
+    display: wrap;
+
+    top: 213PX;
+    left: 196PX;
+}
+
+.cuadro1 {
+    padding: 14px;
+}
+
+/* -------------------------------------------------------------------- */
+.botones1 {
+    position: absolute;
+
+    top: 480px;
+    left: 129px;
+}
+
+.links {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    color: white;
+    top: 6px;
+    text-decoration: none;
+
+
+
+}
+
+.buton1 {
+    position: relative;
+    flex: auto;
+    left: 134px;
+    top: -47px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+
+}
+
+.buton2 {
+    position: relative;
+    flex: auto;
+
+    left: 365px;
+    top: -82px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+
+}
+
+.buton3 {
+    position: relative;
+    flex: auto;
+
+    left: 600px;
+    top: -116px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+}
+
+.buton4 {
+    position: relative;
+    flex: auto;
+
+    left: 832px;
+    top: -150px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+
+}
+
+/* primera parte */
+/* -------------------------------------------------------------------------------------------------- */
+
+/* segunda parte */
+
+.contenedor-img {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 196px;
+    top: 513px;
+}
+
+.buton5 {
+    position: relative;
+    flex: auto;
+
+    left: 271px;
+    top: 640px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+}
+
+
+.buton6 {
+    position: relative;
+    flex: auto;
+
+    left: 508px;
+    top: 605px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+}
+
+.buton7 {
+    position: relative;
+    flex: auto;
+
+    left: 733px;
+    top: 570px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+}
+
+.buton8 {
+    position: relative;
+    flex: auto;
+
+    left: 955px;
+    top: 536px;
+    width: 90px;
+    height: 35px;
+    border-radius: 12px;
+    border: 1px solid grey;
+    /* Aquí establecemos el borde gris */
+    text-indent: 25px;
+    background-color: rgb(228, 41, 112);
+}
+
+/* --------------------------------------------------------------------------------------------- */
+.buton1:hover {
+    transform: scale(1.1);
+}
+
+.buton2:hover {
+    transform: scale(1.1);
+}
+
+.buton3:hover {
+    transform: scale(1.1);
+}
+
+.buton4:hover {
+    transform: scale(1.1);
+}
+
+.buton5:hover {
+    transform: scale(1.1);
+}
+
+.buton6:hover {
+    transform: scale(1.1);
+}
+
+.buton7:hover {
+    transform: scale(1.1);
+}
+
+.buton8:hover {
+    transform: scale(1.1);
+}
+
+
+
+
+
+
+img {
+    gap: 10px;
+}
